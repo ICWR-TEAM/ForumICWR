@@ -12,11 +12,11 @@
 
 <br><br>
 
-<p align="center">
+
     
-    <img src="1.png" alt="gambar"/>
+    <img align="center" src="1.png" alt="gambar"/>
     
-</p>
+
 
 <br><br>
 
