@@ -1,6 +1,6 @@
 <p align='center'>
     
-  # Forum IN CRUST WE RUSH
+  <h1>Forum IN CRUST WE RUSH</h1>
   
 </p>
 
