@@ -1,4 +1,6 @@
+<p align='center'>
 # Forum IN CRUST WE RUSH
+</p>
 
 <p align="center">
   
