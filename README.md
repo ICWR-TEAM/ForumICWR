@@ -11,8 +11,11 @@
 </p>
 
 <br><br>
-
-<img align="center" src="1.png">
+<p align="center">
+    
+    <img src="1.png">
+    
+</p>
 
 <br><br>
 
