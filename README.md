@@ -11,6 +11,7 @@
 </p>
 
 <br><br>
+
 <p align="center">
     
     <img src="1.png">
@@ -37,6 +38,4 @@ Username: billy@incrustwerush.org
 Password: billy
 ```
 
-<p align="center">
-  # Terima Kasih
-</p>
+<h2 align="center"> Terima Kasih...</h2>
