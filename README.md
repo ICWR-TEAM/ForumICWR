@@ -1,8 +1,8 @@
-<p align='center'>
+
     
-  <h1>Forum IN CRUST WE RUSH</h1>
+  <h1 align="center">Forum IN CRUST WE RUSH</h1>
   
-</p>
+
 
 <p align="center">
   
