@@ -12,7 +12,7 @@
 
 <br>
 <p align="center">
-    <img align="center" src="1.png">
+    <img align="center" src="Screenshot from 2021-10-18 14-59-47.png">
 </p>
 <br>
 
