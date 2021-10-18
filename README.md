@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="1.png">
+<img align="center" src="1.png">
 
 <br><br>
 
