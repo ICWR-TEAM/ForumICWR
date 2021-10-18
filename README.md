@@ -11,13 +11,7 @@
 </p>
 
 <br><br>
-
-
-    
-    <img align="center" src="1.png" alt="gambar"/>
-    
-
-
+    <img align="center" src="1.png">
 <br><br>
 
 # Dibuat dari
